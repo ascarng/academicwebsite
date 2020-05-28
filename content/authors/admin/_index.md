@@ -29,10 +29,10 @@ education:
   courses:
   - course: MA in Anthropology 
     institution: CUHK
-    year: 2018
+    year: 2019
   - course: BA in Religious Studies 
     institution: HKBU
-    year: 2009
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
