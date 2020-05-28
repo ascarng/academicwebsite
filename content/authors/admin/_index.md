@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Christian Education
 - Christian Ethics 
-- Wholeperson Education
+- Whole Person Education
 
 education:
   courses:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: cscs218074@hkbu.edu.hk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -62,11 +62,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: Centre for Sino- Christian Studies
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ascar Ng is an experienced project assistance at the Centre for Sino- Christian Studies. She has successfully assisted to host the TKP Conference Series on Christian Education and Whole person Education. The conferences recruited more than a hundreds scholars from abroad and domestic.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
